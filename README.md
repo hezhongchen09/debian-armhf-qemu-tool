@@ -1,4 +1,4 @@
-# debian-arm64-qemu-tool
+# debian-armhf-qemu-tool
 
 # Step 1
 
